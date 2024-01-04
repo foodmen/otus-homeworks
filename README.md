@@ -9,4 +9,4 @@
 
 После выполенния скрипта будут запущены два контейнера, в первом контейнере будет находиться само приложение, во втором - база данных
 
-Используемые технологии: Spring Boot, Spring MVC, Spring Data, Spring Security, Lombok, PostgreSQL, docker-compose
+Используемые технологии: Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Boot Test, Lombok, PostgreSQL, docker-compose
